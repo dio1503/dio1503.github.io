@@ -112,6 +112,11 @@ footer {
   color: #0969da;
   text-decoration: none;
 }
+}
+.a-link {
+  align-items: left;
+  padding: 10px;
+}
 
 .button-link:hover {
   background-color: #0969DA;
