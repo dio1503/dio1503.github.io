@@ -115,7 +115,8 @@ footer {
 }
 .a-link {
   align-items: left;
-  padding: 10px;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .button-link:hover {
